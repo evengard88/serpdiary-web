@@ -1,0 +1,8 @@
+User-Agent: *
+Allow: /
+Disallow: /app/
+Disallow: /manage/
+Disallow: /signin
+Disallow: /invite
+
+Sitemap: https://serpdiary.com/sitemap.xml
